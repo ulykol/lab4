@@ -1,0 +1,3 @@
+C:\Users\Дарья\Desktop\lab4.1\x64\Debug\lab4.1.exe
+C:\Users\Дарья\Desktop\3 семестр\Логика и основы алгоритмизации в инженерных задачах\lab\lab4\lab4.1\x64\Debug\lab4.1.exe
+E:\24.10\lab4\lab4.1\x64\Debug\lab4.1.exe
